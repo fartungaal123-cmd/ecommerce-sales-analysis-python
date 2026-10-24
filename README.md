@@ -31,11 +31,11 @@ No missing values or duplicate rows were identified. Some orders showed a differ
 
 ## Conclusion
 
-The analysis identified differences in sales performance and profitability across years, product categories, customer segments, and discount levels.
+This analysis explored sales performance and profitability across years, product categories, customer segments, and discount levels.
 
-Office Supplies and products with negative profit are potential areas for further investigation. The relationship between discounts and profitability also deserves attention.
+The findings highlight potential areas for further investigation, particularly the low profit margin in Office Supplies, loss-making products, and the relationship between discount levels and profitability.
 
-These findings describe patterns in the dataset and do not establish that discounts directly cause lower profit margins.
+These insights can help guide further analysis and support data-driven business decisions. However, the observed patterns do not establish that discounts directly cause lower profit margins.
 
 ## Project Structure
 
