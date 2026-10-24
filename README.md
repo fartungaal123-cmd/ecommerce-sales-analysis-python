@@ -41,3 +41,9 @@ These findings describe patterns in the dataset and do not establish that discou
 
 - `ecommerce-sales-data-analysis.ipynb` — Jupyter notebook containing the analysis, calculations, and results.
 - `README.md` — Project overview, key findings, and conclusion.
+
+## Visualizations
+
+### Annual Sales Performance (2023–2025)
+
+![Annual Sales Performance](images/annual_sales.png)
