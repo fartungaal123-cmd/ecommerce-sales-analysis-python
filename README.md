@@ -47,3 +47,9 @@ These findings describe patterns in the dataset and do not establish that discou
 ### Annual Sales Performance (2023–2025)
 
 ![Annual Sales Performance](images/annual_sales.png)
+
+
+### Sales by Product Category
+
+![Total Sales by Product Category](images/sales_by_category.png)
+
