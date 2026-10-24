@@ -16,12 +16,12 @@ The objective is to explore sales performance, profitability, customer segments,
 ## Key Findings
 
 - **Overall performance:** Total sales were 484,559.34 and total profit was 158,872.32.
-- **Annual trends:** Sales declined in 2024 before recovering in 2025. Sales in 2025 reached 164,965.16.
-- **Product categories:** Furniture generated the highest sales, while Office Supplies had the lowest profit margin at 17.12%.
+- **Annual trends:** Sales declined in 2024 before recovering in 2025, reaching 164,965.16.
+- **Product categories:** Furniture generated the highest sales, while Clothing & Accessories had the highest profit margin at 37.64%. Office Supplies had the lowest profit margin at 17.12%.
 - **Customer segments:** Consumer generated the highest total sales and profit.
 - **Discounts:** Overall profit margins declined as discount levels increased, from 38.72% at a 0% discount to 13.42% at a 30% discount.
-- **Loss-making orders:** 272 orders (13.6%) had negative profit.
-- **Product-level findings:** Paper Clips Box 500pc recorded a total loss of 79.95 across 45 orders.
+- **Loss-making orders:** 272 orders (13.6%) recorded a negative profit.
+- **Product-level findings:** Paper Clips Box 500pc generated a total loss of 79.95 across 45 orders.
 
 ## Data Quality Checks
 
